@@ -1,0 +1,21 @@
+Alright, good start so far today. Went in to configure VM acceleration.
+All in all, the process wasn't bad. I remembered what the rough part was.
+I had to link updated stdc++ libs from /usr/lib to the Sdk's ones because
+for whatever reason they use the wrong ones still. The solution was the
+same workaround I used before. After some testing, we are up and running
+fully in Android studio. I think. Off to check the flutter doctor and make
+sure everything is gucci then the real fun begins.
+
+IT WORKS HAHAHA YES GOD YES
+
+Ok. The hot reload is pretty damn fancy. I even noticed it reallocating cache
+when the number got too big, but that might be an Android Studio thing more
+than a Flutter thing. EIther way, damn this is badass.
+
+Heheh I used to have to count beans at this cafe I worked at (it was a vegan
+cafe in Cambridge if that tells you anything). So, I made a bean counter app
+using the base app for Flutter. #basicallyhirable
+
+Turn up. Gonna grab some lunch and come back to this later.
+
+<3 D
